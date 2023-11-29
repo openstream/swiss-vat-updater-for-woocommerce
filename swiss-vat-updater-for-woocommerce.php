@@ -2,7 +2,7 @@
 /**
  * Plugin Name: WooCommerce Swiss VAT Updater 2024
  * Description: This plugin uses the WooCommerce action scheduler to adjust Swiss and Liechtenstein tax rates automatically on January 1st, 2024 to 8.1% and 2.6%
- * Plugin URI: https://www.openstream.ch
+ * Plugin URI: https://www.openstream.ch/erhoehung-mwst-2024
  * Version: 1.0.0
  * Author: Openstream Internet Solutions
  * Author URI: https://www.openstream.ch
